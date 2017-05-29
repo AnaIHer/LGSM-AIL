@@ -5,13 +5,13 @@ This repository contains code and data of the manuscript (submitted/in review), 
 
 Folder: LGSM gemma script MS
 phenotypes.csv: Muscleskeletal phenotypes data collected on LGSM AIL male mice.
-genotypes.csv:  
+genotypes.csv: genotypes of the LGSM AIL male mice used for this research
 
 Folder: LGSM rel script MS
 phenotypes.csv: Muscleskeletal phenotypes data collected on LGSM AIL male mice.
 RQTLcross.format_data.csv: Cross format file with genotypes and phenotypes. This file format is used by r/qtl.
-genotypes.csv:
-map.csv:
+genotypes.csv: genotypes of the LGSM AIL male mice used for this research
+map.csv: markers genomic location and cM location
 
 # Summary of the codes in this directory
 
