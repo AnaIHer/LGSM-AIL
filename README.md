@@ -29,7 +29,7 @@ map.cross.PSU.R:R script for mapping QTLs using r/qtl package
 
 
 Credits:
-The R code implementing the analysis based on the work of:
+The R code implementing the analysis was based on the work of:
 Peter Carbonetto
 Department of Human Genetics
 University of Chicago
