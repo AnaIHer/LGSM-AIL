@@ -36,5 +36,5 @@ University of Chicago
 June 2015
 and modified by:
 Ana I Hernandez Cordero
-University of Aberdden
+University of Aberdeen
 May 2017
